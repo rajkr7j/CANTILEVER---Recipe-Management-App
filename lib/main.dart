@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:recipe_app/reciepi_app/home_screen.dart';
-import 'package:recipe_app/reciepi_app/recipe_provider.dart';
+import 'package:recipe_app/recipe_app/home_screen.dart';
+import 'package:recipe_app/recipe_app/recipe_provider.dart';
 
 void main() {
   runApp(MyApp());
